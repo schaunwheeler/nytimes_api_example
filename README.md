@@ -16,6 +16,7 @@ The requirements.txt file lists the Python libraries needed to run the script.
 * Error handling for the API connection (retry on timeout, etc.)
 * Command-line argument parsing to allow feeding of API key, search terms, etc.
 * Formal logging rather than simple print commands
+* Set up api calls and page builds as separate collections of functions intead of one long script.
 
 ### Analysis
 * Automate interpretation of LDA topics (use component probilities to decide how many topics to include, etc.)
