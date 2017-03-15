@@ -28,6 +28,7 @@ The requirements.txt file lists the Python libraries needed to run the script.
 * Polish the date formatting to be more user-friendly.
 * Choose a more attractive color pallete for the bar charts than plain gray.
 * Include simple hyperlink navigation to different parts of the page.
+* Include tooltips in graphs to provide useful contextual information.
 
 
 
